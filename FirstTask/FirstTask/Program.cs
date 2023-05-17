@@ -10,6 +10,8 @@ namespace FirstTask
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();
         }
+
     }
 }
